@@ -20,6 +20,8 @@
 {
     [super viewDidLoad];
     
+    
+    
     NSString *key = @"ws123456.";
 
     NSString *stss = @"似此星辰非昨夜,为谁风露立中宵";
